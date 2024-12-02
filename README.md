@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![](https://raw.githubusercontent.com/wh8510/wh8510/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/wh8510/wh8510/output/github-contribution-grid-snake-dark.svg)
 <!--
 **wh8510/wh8510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
